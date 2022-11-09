@@ -1,4 +1,4 @@
-[![AWESOME CHEATSHEETS LOGO](_design/cover_github@2x.png)]
+![AWESOME CHEATSHEETS LOGO](_design/cover_github@2x.png)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
